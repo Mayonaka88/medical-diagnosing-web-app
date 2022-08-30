@@ -12,4 +12,6 @@
 
 > A minimalistic design, similar to the design of the [Minimalist Music Aggregator](https://github.com/Mayonaka88/minimalist-music-aggregator), was implimented.
 
+> Run WebApplication1.sln to start.
+
 > Enjoy :)
