@@ -14,4 +14,3 @@
 
 > Run WebApplication1.sln to start.
 
-> Enjoy :)
